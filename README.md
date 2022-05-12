@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![tylearymf's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylearymf&count_private=true&show_icons=true&theme=tokyonight&bg_color=000000&title_color=6699FF&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=tylearymf&layout=compact&theme=highcontrast&title_color=6699FF)](https://github.com/anuraghazra/github-readme-stats)
--->
 
+[![tylearymf's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylearymf&count_private=true&show_icons=true&theme=tokyonight&bg_color=000000&title_color=6699FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=tylearymf&layout=compact&theme=highcontrast&title_color=6699FF)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylearymf&count_private=true&show_icons=true&theme=tokyonight&bg_color=000000&title_color=6699FF&line_height=20" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylearymf&layout=compact&theme=highcontrast&title_color=6699FF" />
 </a>
+-->
